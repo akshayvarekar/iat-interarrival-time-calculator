@@ -1,0 +1,6 @@
+{
+  "name": "Interarrival Time (IAT) Calculator",
+  "description": "Calculate SKU-Site Interarrival Time (IAT) and evaluate Business Impact comparing Actual vs. Naive Cycle Stock and financial risk exposure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
